@@ -1,0 +1,149 @@
+{
+    "rajaongkir": {
+        "query": {
+            "key": "003035be71bda1f1c19c95d5c3d88af3"
+        },
+        "status": {
+            "code": 200,
+            "description": "OK"
+        },
+        "results": [
+            {
+                "id": "1",
+                "provinsi": "Bali"
+            },
+            {
+                "id": "2",
+                "provinsi": "Bangka Belitung"
+            },
+            {
+                "id": "3",
+                "provinsi": "Banten"
+            },
+            {
+                "id": "4",
+                "provinsi": "Bengkulu"
+            },
+            {
+                "id": "5",
+                "provinsi": "DI Yogyakarta"
+            },
+            {
+                "id": "6",
+                "provinsi": "DKI Jakarta"
+            },
+            {
+                "id": "7",
+                "provinsi": "Gorontalo"
+            },
+            {
+                "id": "8",
+                "provinsi": "Jambi"
+            },
+            {
+                "id": "9",
+                "provinsi": "Jawa Barat"
+            },
+            {
+                "id": "10",
+                "provinsi": "Jawa Tengah"
+            },
+            {
+                "id": "11",
+                "provinsi": "Jawa Timur"
+            },
+            {
+                "id": "12",
+                "provinsi": "Kalimantan Barat"
+            },
+            {
+                "id": "13",
+                "provinsi": "Kalimantan Selatan"
+            },
+            {
+                "id": "14",
+                "provinsi": "Kalimantan Tengah"
+            },
+            {
+                "id": "15",
+                "provinsi": "Kalimantan Timur"
+            },
+            {
+                "id": "16",
+                "provinsi": "Kalimantan Utara"
+            },
+            {
+                "id": "17",
+                "provinsi": "Kepulauan Riau"
+            },
+            {
+                "id": "18",
+                "provinsi": "Lampung"
+            },
+            {
+                "id": "19",
+                "provinsi": "Maluku"
+            },
+            {
+                "id": "20",
+                "provinsi": "Maluku Utara"
+            },
+            {
+                "id": "21",
+                "provinsi": "Nanggroe Aceh Darussalam (NAD)"
+            },
+            {
+                "id": "22",
+                "provinsi": "Nusa Tenggara Barat (NTB)"
+            },
+            {
+                "id": "23",
+                "provinsi": "Nusa Tenggara Timur (NTT)"
+            },
+            {
+                "id": "24",
+                "provinsi": "Papua"
+            },
+            {
+                "id": "25",
+                "provinsi": "Papua Barat"
+            },
+            {
+                "id": "26",
+                "provinsi": "Riau"
+            },
+            {
+                "id": "27",
+                "provinsi": "Sulawesi Barat"
+            },
+            {
+                "id": "28",
+                "provinsi": "Sulawesi Selatan"
+            },
+            {
+                "id": "29",
+                "provinsi": "Sulawesi Tengah"
+            },
+            {
+                "id": "30",
+                "provinsi": "Sulawesi Tenggara"
+            },
+            {
+                "id": "31",
+                "provinsi": "Sulawesi Utara"
+            },
+            {
+                "id": "32",
+                "provinsi": "Sumatera Barat"
+            },
+            {
+                "id": "33",
+                "provinsi": "Sumatera Selatan"
+            },
+            {
+                "id": "34",
+                "provinsi": "Sumatera Utara"
+            }
+        ]
+    }
+}
